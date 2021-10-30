@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sach1803
+- 👋 Hi, I’m Sachin Verma
 - 👀 I’m interested in Machin Learning .
 - 🌱 I’m currently learning NLP and AWS ML
 - 💞️ I’m looking to collaborate on Data science and ML
