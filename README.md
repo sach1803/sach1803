@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sachin Verma
-- 👀 I’m interested in Machin Learning .
+- 👀 I’m interested in Data science and Machin Learning .
 - 🌱 I’m currently learning NLP and AWS ML
 - 💞️ I’m looking to collaborate on Data science and ML
 - 📫 Reach me at sachinverma1803@yahoo.com
